@@ -73,7 +73,7 @@ export default function Home() {
             </div>
             <div className="hero-badge-text">
               <strong>Top Rated</strong>
-              <span>Full-Stack Developers</span>
+              <span>Full-Stack Developer</span>
             </div>
           </div>
         </div>
